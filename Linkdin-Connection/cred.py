@@ -1,2 +1,2 @@
-user="mgchanni@gmail.com"
-pas="test005"
+user="addyourown"
+pas="addyourown"
